@@ -6,7 +6,7 @@
                                                                      
  The hamiltonian mustr be in this form:     
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;H=\begin{pmatrix}XX&XX&XX&XX&XX&XX&XX\\XX&h0&h1&00&00&00&XX\\XX&h1&h0&gl&00&00&XX\\XX&00&gl&hs&gr&00&XX\\XX&00&00&gr&h0&h1&XX\\XX&00&00&00&h1&h0&XX\\XX&XX&XX&XX&XX&XX&XX\end{pmatrix}"title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />              
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;H=\begin{pmatrix}XX&XX&XX&XX&XX&XX&XX\\XX&h0&h1&00&00&00&XX\\XX&h1&h0&gl&00&00&XX\\XX&00&gl&hs&gr&00&XX\\XX&00&00&gr&h0&h1&XX\\XX&00&00&00&h1&h0&XX\\XX&XX&XX&XX&XX&XX&XX\end{pmatrix}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />              
                                                                      
  You need to input where the first h0 starts and ends.                                            
                                                                      
